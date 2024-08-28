@@ -48,7 +48,8 @@ Software Quality assurance (QA) in software engineering is important because it 
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is all about crafting,clear questions or statements to get the best possible responses from AI models. Prompt engineering is important when interacting with AI models because it helps avoid vague answers and confusion by making your questions clear and specific, so the AI understands exactly what you need.
+Prompt engineering is all about crafting,clear questions or statements to get the best possible responses from AI models. Prompt engineering is important when interacting with AI models because it helps avoid vague answers and confusion by making your questions clear and specific, so the AI understands exactly what you need
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 An example of a vague prompt is "What is surgery?" whereas a prompt engineered question would specify what speciality of surgery i want to know about e.g "What is pedeiatric surgery?" The propmt engineered question asks the AI to focus on only paedeatric surgery which is done on children only. Where as the vague prompt does not specify and could include all specialties in surgery. 
+
